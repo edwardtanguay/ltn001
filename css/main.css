@@ -27,3 +27,7 @@ span.info {
     margin-top: .5rem;
     display: none;
 }
+
+hr {
+    margin-top: 2rem;
+}
