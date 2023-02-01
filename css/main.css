@@ -1,0 +1,29 @@
+img {
+    margin-bottom: 1rem;
+}
+
+body {
+    padding-right: 1rem;
+}
+
+li {
+    line-height: 1.4rem;
+    margin-bottom: .7rem;
+}
+
+a {
+    color: brown;
+}
+
+span.info {
+    font-style: italic;
+}
+.flashcard {
+    background-color: #ccc;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+.answer {
+    margin-top: .5rem;
+    display: none;
+}
